@@ -24,7 +24,7 @@ html{
 
 #navbar {
     display: flex;
-    position: sticky;
+    position: relative;
     align-items: center;
     top: 0px;
 }
