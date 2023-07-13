@@ -85,7 +85,7 @@ html{
 
 #home::before {
     content: "";
-    background: url('../img02/img01.jpg')no-repeat center center/cover;
+    background: url('img01.jpg')no-repeat center center/cover;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -202,7 +202,7 @@ html{
     position: absolute;
     height: 270px;
     width: 100%;
-    background: url('../img02/img02.jpg')no-repeat center center/cover;
+    background: url('img02.jpg')no-repeat center center/cover;
     z-index: -1;
     opacity: .5;
 }
@@ -223,7 +223,7 @@ html{
     position: absolute;
     height: 100%;
     width: 100%;
-    background: url('../img02/img03.jpg')no-repeat center center/cover;
+    background: url('img03.jpg')no-repeat center center/cover;
     z-index: -1;
     opacity: .6;
 }
